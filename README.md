@@ -17,7 +17,7 @@ The user can use the 'Add Users:' box to add a user.
 The 'Users:' table will update accordingly.  
 Clicking the 'EDT' on the 'Users:' table will change the 'Add Users:' to 'Edit Users'
 where one can update a users name or username.  
-Once can cancle the editing or chose another user to edit by selecting a different 'EDT' button.  
+Once can cancel the editing or chose another user to edit by selecting a different 'EDT' button.  
 
 
 ## Contributing
