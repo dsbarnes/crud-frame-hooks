@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dsbarnes/crud-frame-hooks/static/css/main.f13de946.chunk.css",
-    "main.js": "/dsbarnes/crud-frame-hooks/static/js/main.635fad90.chunk.js",
-    "main.js.map": "/dsbarnes/crud-frame-hooks/static/js/main.635fad90.chunk.js.map",
-    "runtime-main.js": "/dsbarnes/crud-frame-hooks/static/js/runtime-main.eb8f1035.js",
-    "runtime-main.js.map": "/dsbarnes/crud-frame-hooks/static/js/runtime-main.eb8f1035.js.map",
-    "static/js/2.5fa6bec2.chunk.js": "/dsbarnes/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js",
-    "static/js/2.5fa6bec2.chunk.js.map": "/dsbarnes/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.map",
-    "index.html": "/dsbarnes/crud-frame-hooks/index.html",
-    "precache-manifest.e4aa2911bd50a689f59d7d4adf3eb80f.js": "/dsbarnes/crud-frame-hooks/precache-manifest.e4aa2911bd50a689f59d7d4adf3eb80f.js",
-    "service-worker.js": "/dsbarnes/crud-frame-hooks/service-worker.js",
-    "static/css/main.f13de946.chunk.css.map": "/dsbarnes/crud-frame-hooks/static/css/main.f13de946.chunk.css.map",
-    "static/js/2.5fa6bec2.chunk.js.LICENSE.txt": "/dsbarnes/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.LICENSE.txt"
+    "main.css": "/crud-frame-hooks/static/css/main.f13de946.chunk.css",
+    "main.js": "/crud-frame-hooks/static/js/main.635fad90.chunk.js",
+    "main.js.map": "/crud-frame-hooks/static/js/main.635fad90.chunk.js.map",
+    "runtime-main.js": "/crud-frame-hooks/static/js/runtime-main.3763bb50.js",
+    "runtime-main.js.map": "/crud-frame-hooks/static/js/runtime-main.3763bb50.js.map",
+    "static/js/2.5fa6bec2.chunk.js": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js",
+    "static/js/2.5fa6bec2.chunk.js.map": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.map",
+    "index.html": "/crud-frame-hooks/index.html",
+    "precache-manifest.88eca7600408e5d9fd318d6248743ad0.js": "/crud-frame-hooks/precache-manifest.88eca7600408e5d9fd318d6248743ad0.js",
+    "service-worker.js": "/crud-frame-hooks/service-worker.js",
+    "static/css/main.f13de946.chunk.css.map": "/crud-frame-hooks/static/css/main.f13de946.chunk.css.map",
+    "static/js/2.5fa6bec2.chunk.js.LICENSE.txt": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb8f1035.js",
+    "static/js/runtime-main.3763bb50.js",
     "static/js/2.5fa6bec2.chunk.js",
     "static/css/main.f13de946.chunk.css",
     "static/js/main.635fad90.chunk.js"
