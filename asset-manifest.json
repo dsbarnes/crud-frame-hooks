@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crud-frame-hooks/static/css/main.f13de946.chunk.css",
-    "main.js": "/crud-frame-hooks/static/js/main.635fad90.chunk.js",
-    "main.js.map": "/crud-frame-hooks/static/js/main.635fad90.chunk.js.map",
+    "main.css": "/crud-frame-hooks/static/css/main.78642675.chunk.css",
+    "main.js": "/crud-frame-hooks/static/js/main.454bd4ae.chunk.js",
+    "main.js.map": "/crud-frame-hooks/static/js/main.454bd4ae.chunk.js.map",
     "runtime-main.js": "/crud-frame-hooks/static/js/runtime-main.3763bb50.js",
     "runtime-main.js.map": "/crud-frame-hooks/static/js/runtime-main.3763bb50.js.map",
     "static/js/2.5fa6bec2.chunk.js": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js",
     "static/js/2.5fa6bec2.chunk.js.map": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.map",
     "index.html": "/crud-frame-hooks/index.html",
-    "precache-manifest.88eca7600408e5d9fd318d6248743ad0.js": "/crud-frame-hooks/precache-manifest.88eca7600408e5d9fd318d6248743ad0.js",
+    "precache-manifest.f6a0e1b85756ad20a2815f1c00e252b1.js": "/crud-frame-hooks/precache-manifest.f6a0e1b85756ad20a2815f1c00e252b1.js",
     "service-worker.js": "/crud-frame-hooks/service-worker.js",
-    "static/css/main.f13de946.chunk.css.map": "/crud-frame-hooks/static/css/main.f13de946.chunk.css.map",
+    "static/css/main.78642675.chunk.css.map": "/crud-frame-hooks/static/css/main.78642675.chunk.css.map",
     "static/js/2.5fa6bec2.chunk.js.LICENSE.txt": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3763bb50.js",
     "static/js/2.5fa6bec2.chunk.js",
-    "static/css/main.f13de946.chunk.css",
-    "static/js/main.635fad90.chunk.js"
+    "static/css/main.78642675.chunk.css",
+    "static/js/main.454bd4ae.chunk.js"
   ]
 }

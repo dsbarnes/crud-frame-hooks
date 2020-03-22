@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a7ab9fe7671fefd55a299e1779dca64",
+    "revision": "66b2d854859e9e606146c76ee1b43804",
     "url": "/crud-frame-hooks/index.html"
   },
   {
-    "revision": "b83d04bcd3523dae9560",
-    "url": "/crud-frame-hooks/static/css/main.f13de946.chunk.css"
+    "revision": "2afa2f5fb16adde99639",
+    "url": "/crud-frame-hooks/static/css/main.78642675.chunk.css"
   },
   {
     "revision": "447e3b9f95f6f39b0508",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crud-frame-hooks/static/js/2.5fa6bec2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b83d04bcd3523dae9560",
-    "url": "/crud-frame-hooks/static/js/main.635fad90.chunk.js"
+    "revision": "2afa2f5fb16adde99639",
+    "url": "/crud-frame-hooks/static/js/main.454bd4ae.chunk.js"
   },
   {
     "revision": "01f45b9b3d5d9deed2ab",
