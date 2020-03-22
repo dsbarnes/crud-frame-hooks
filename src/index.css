@@ -1,13 +1,65 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{ background: silver; }
+p.bigFont{ font-size: 22px; }
+#container{
+  font-family: 'Teko', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 1.5px;
+  width: 85%;
+  margin: 15% auto 0px auto;
+}
+section#top{
+  border-radius: 30px;
+  background: white;
+  width: 80%;
+  margin: 42px auto 0px auto;
+  padding: 20px 20px 40px 20px;
+}
+section#top form{
+  margin: 0px auto 0px auto;
+  text-align: center;
+  font-size: 18px;
+}
+section#top button{
+  height: 18px;
+  width: 80px;
+  border: 1px solid silver;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+div.inputField{
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+  padding: 5px;
+}
+div.inputField input{
+  width: 210px;
+}
+
+section#bottom{
+  border-radius: 30px;
+  background: white;
+  width: 80%;
+  margin: 24px auto 42px auto;
+  padding: 20px 20px 30px 20px;
+}
+section#bottom table{
+  margin: 0px auto 0px auto;
+}
+table thead td{
+  background: rgb(232, 232, 232);
+  width: 225px;
+  height: 42px;
+  padding-left: 8px;
+
+}
+table tbody td{
+  height: 42px;
+  border-bottom: 1px solid silver;
+}
+button.tableButton{
+  width: 100%;
+  border: 1px solid silver;
+}
+button:hover{
+  background-color: silver;
 }
