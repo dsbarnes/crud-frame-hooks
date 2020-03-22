@@ -30,8 +30,8 @@ const Users = (props) => (
                                 <button
                                     className='tableButton'
                                     onClick={() => {
-                                    props.userToEdit(user)
-                                }}>
+                                        props.userToEdit(user)
+                                    }}>
                                     EDT
                     </button>
                             </td>
@@ -39,8 +39,8 @@ const Users = (props) => (
                     ))
                 ) : (
                         <tr>
-                <td>NO USERS</td>
-            </tr>
+                            <td>NO USERS</td>
+                        </tr>
                     )
                 }
             </tbody>

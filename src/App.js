@@ -56,7 +56,7 @@ const App = () => {
             <div id='container'>
                 {editing ? (
                     <section id="top">
-                        <p><b>Edit User</b></p>
+                        <p className='bigFont'><b>Edit User</b></p>
                         <EditUserForm
                             editing={editing}
                             setEditing={setEditing}
@@ -66,12 +66,13 @@ const App = () => {
                     </section>
                 ) : (
                         <section id="top">
-                            <p className='bigFont'><b>Add Users:</b></p>
+                            <p className='bigFont'><b>Add Users</b></p>
                             <AddUserForm addUser={addUser} />
                         </section>
                     )}
                 <section id="bottom">
-                    <p className='bigFont'><b>Users:</b></p>
+                    <hr />
+                    <p className='bigFont'><b>Users</b></p>
                     <Users
                         users={users}
                         deleteUser={deleteUser}

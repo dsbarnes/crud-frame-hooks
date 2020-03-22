@@ -20,28 +20,36 @@ const AddUserForm = (props) => {
                 setUserForm(formData)
             }}
         >
-            <div className='inputField'>
-                <label>Name</label>
-                <input
-                    type='text'
-                    name='name'
-                    value={user.name}
-                    onChange={handleInput}
-                />
-            </div>
-
-            <div className='inputField'>
-                <label>Username</label>
-                <input
-                    type='text'
-                    name='username'
-                    value={user.username}
-                    onChange={handleInput}
-                />
-            </div>
-            <button id='addEditButton'>Add User</button>
-
-        </form>
+            <table>
+                <tr>
+                    <td className='td-short'><b>NAME</b></td>
+                    <td className='td-long top-input'>
+                        <input
+                            type='text'
+                            name='name'
+                            value={user.name}
+                            onChange={handleInput}
+                        />
+                    </td>
+                </tr>
+                <tr>
+                    <td className='td-short'><b>USERNAME</b></td>
+                    <td className='td-long top-input'>
+                        <input
+                            type='text'
+                            name='username'
+                            value={user.username}
+                            onChange={handleInput}
+                        />
+                    </td>
+                </tr>
+                <tr>
+                    <td colSpan="2" className='top-button-container no-border'>
+                        <button>Add User</button>
+                    </td>
+                </tr>
+            </table>
+        </form >
     )
 }
 
